@@ -8,4 +8,5 @@ La misión primaria consiste en medir, mediante los sensores brindados en el kit
 La misión secundaria consistirá en la toma de fotos de las distintas alturas para luego poder identificar las zonas verdes de cada area para
 - Poder llevar un registro de si hay mayor o menor proporción de zonas verdes a lo largo de estos periodos
 - Medir la calidad del aire y si esta no cumple con los standares hacer una recomendación de donde podrían ser necesarios plantar arboles o construir zonas verdes y en que proporción
+
 Esto puede ser útil no solo en ares rurales por la gran cantidad de incendios que sufre Córdoba todos los años y la deforestación sino tambien en lugares urbamnos donde generalmente la calidad del aire no es buena para la salud de quienes viven allí
